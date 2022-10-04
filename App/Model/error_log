@@ -1,0 +1,169 @@
+[02-Oct-2022 17:00:08 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 69
+[02-Oct-2022 17:35:56 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 69
+[02-Oct-2022 23:19:34 Asia/Kolkata] PHP Warning:  Undefined variable $4 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:19:57 Asia/Kolkata] PHP Warning:  Undefined variable $1 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:20:11 Asia/Kolkata] PHP Warning:  Undefined variable $5 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:20:40 Asia/Kolkata] PHP Warning:  Undefined variable $1 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:21:50 Asia/Kolkata] PHP Warning:  Undefined variable $4 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:22:10 Asia/Kolkata] PHP Warning:  Undefined variable $1 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:23:05 Asia/Kolkata] PHP Warning:  Undefined variable $1 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:25:29 Asia/Kolkata] PHP Warning:  Undefined variable $1 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:26:12 Asia/Kolkata] PHP Warning:  Undefined variable $5 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:26:50 Asia/Kolkata] PHP Warning:  Undefined variable $1 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $2 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:30:28 Asia/Kolkata] PHP Warning:  Undefined variable $2 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:30:37 Asia/Kolkata] PHP Warning:  Undefined variable $3 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 184
+[02-Oct-2022 23:32:19 Asia/Kolkata] PHP Warning:  Undefined variable $3 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 185
+[02-Oct-2022 23:35:23 Asia/Kolkata] PHP Warning:  Undefined variable $5 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 185
+[02-Oct-2022 23:35:32 Asia/Kolkata] PHP Warning:  Undefined variable $5 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 185
+[02-Oct-2022 23:35:48 Asia/Kolkata] PHP Warning:  Undefined variable $4 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 185
+[02-Oct-2022 18:06:00 UTC] PHP Warning:  Undefined variable $getUserResult in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 28
+[02-Oct-2022 18:06:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 28
+[02-Oct-2022 18:06:13 UTC] PHP Warning:  Undefined variable $getUserResult in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 28
+[02-Oct-2022 18:06:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 28
+[02-Oct-2022 18:06:25 UTC] PHP Warning:  Undefined variable $getUserResult in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 28
+[02-Oct-2022 18:06:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 28
+[02-Oct-2022 18:06:34 UTC] PHP Warning:  Undefined variable $getUserResult in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 28
+[02-Oct-2022 18:06:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 28
+[02-Oct-2022 23:46:11 Asia/Kolkata] PHP Warning:  Undefined variable $3 in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 185
+[02-Oct-2022 19:28:21 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 266
+[02-Oct-2022 19:54:36 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 69
+[03-Oct-2022 01:25:15 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[02-Oct-2022 20:01:03 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 69
+[03-Oct-2022 01:31:29 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:13:39 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:13:58 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:14:06 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:15:20 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:17:53 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:18:08 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:21:36 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:22:18 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[02-Oct-2022 22:52:41 UTC] PHP Warning:  Undefined variable $msg in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 36
+[03-Oct-2022 04:22:46 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:23:57 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:27:30 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:30:14 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:31:29 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:31:44 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:32:06 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:32:22 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:33:37 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:33:42 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:34:22 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:34:32 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:35:15 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:35:21 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:36:57 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:39:26 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[02-Oct-2022 23:13:55 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 69
+[03-Oct-2022 04:44:08 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:25:30 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 69
+[03-Oct-2022 09:57:03 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 04:33:31 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 69
+[03-Oct-2022 10:03:53 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 05:42:32 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 05:44:59 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 07:52:23 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 13:28:28 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 13:29:30 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 08:01:39 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 13:31:58 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 08:07:46 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:09:53 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:10:04 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:11:25 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:12:06 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:13:08 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:13:26 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:14:08 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 13:44:10 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 08:14:51 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:15:39 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:16:12 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:16:41 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 13:46:58 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 08:17:09 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:17:12 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:19:41 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:22:05 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:22:16 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:22:47 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:24:20 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:25:16 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:25:45 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:26:53 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:27:09 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:33:23 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:37:24 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:38:38 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:41:16 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:45:35 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:46:12 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:46:44 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:47:43 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:49:02 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:49:28 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:49:50 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:51:37 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:51:40 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:51:45 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:52:20 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:53:23 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:53:47 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:54:22 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 08:55:38 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 09:03:10 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 15:06:56 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 15:07:13 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 15:07:27 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 15:07:30 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 15:08:17 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 15:11:18 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 15:12:50 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 15:17:12 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 15:38:36 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 15:45:15 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 10:39:45 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 16:09:51 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:23:03 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:23:17 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:23:32 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 10:57:23 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 16:28:40 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:32:01 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:32:13 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:38:35 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:42:49 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:54:15 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:54:57 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:55:20 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:55:51 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:57:22 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 16:57:43 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 17:01:18 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 17:02:50 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 17:11:51 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 17:14:35 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 17:16:26 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 17:27:42 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 12:13:15 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 17:43:31 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 12:15:00 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 17:45:12 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 12:16:58 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 17:47:07 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
+[03-Oct-2022 12:18:39 UTC] PHP Warning:  Undefined variable $eventId in /home/rpmemlkb/rkuevents.rpme.website/App/Model/registerUser.php on line 78
+[03-Oct-2022 17:48:48 Asia/Kolkata] PHP Warning:  Undefined variable $participantsQuery in /home/rpmemlkb/rkuevents.rpme.website/App/Model/addParticipant.php on line 78
