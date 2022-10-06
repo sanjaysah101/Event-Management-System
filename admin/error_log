@@ -1,0 +1,199 @@
+[02-Oct-2022 13:22:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/App/conn.php on line 8
+[02-Oct-2022 13:23:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/App/conn.php on line 8
+[02-Oct-2022 13:23:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/App/conn.php on line 8
+[02-Oct-2022 13:24:36 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 18
+[02-Oct-2022 13:24:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 18
+[02-Oct-2022 13:24:36 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 64
+[02-Oct-2022 13:24:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 64
+[02-Oct-2022 13:24:36 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 73
+[02-Oct-2022 13:24:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 73
+[02-Oct-2022 13:24:36 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 84
+[02-Oct-2022 13:24:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 84
+[02-Oct-2022 13:24:36 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 121
+[02-Oct-2022 13:24:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 121
+[02-Oct-2022 13:25:02 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 18
+[02-Oct-2022 13:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 18
+[02-Oct-2022 13:25:02 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 64
+[02-Oct-2022 13:25:02 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 64
+[02-Oct-2022 13:25:02 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 73
+[02-Oct-2022 13:25:02 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 73
+[02-Oct-2022 13:25:02 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 84
+[02-Oct-2022 13:25:02 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 84
+[02-Oct-2022 13:25:02 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 121
+[02-Oct-2022 13:25:02 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 121
+[02-Oct-2022 13:26:27 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 18
+[02-Oct-2022 13:26:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 18
+[02-Oct-2022 13:26:27 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 64
+[02-Oct-2022 13:26:27 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 64
+[02-Oct-2022 13:26:27 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 73
+[02-Oct-2022 13:26:27 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 73
+[02-Oct-2022 13:26:27 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 84
+[02-Oct-2022 13:26:27 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 84
+[02-Oct-2022 13:26:27 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 121
+[02-Oct-2022 13:26:27 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/Admin/index.php on line 121
+[02-Oct-2022 13:27:40 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 13:27:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 13:27:40 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 13:27:40 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 13:27:40 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 13:27:40 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 13:27:40 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 13:27:40 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 13:27:40 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[02-Oct-2022 13:27:40 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[02-Oct-2022 15:55:52 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 15:55:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 15:55:52 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 15:55:52 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 15:55:52 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 15:55:52 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 15:55:52 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 15:55:52 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 15:55:52 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[02-Oct-2022 15:55:52 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[02-Oct-2022 16:53:51 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 16:53:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 16:53:51 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 16:53:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 16:53:51 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 16:53:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 16:53:51 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 16:53:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 16:53:51 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[02-Oct-2022 16:53:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[02-Oct-2022 22:04:02 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 22:04:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 22:04:02 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 22:04:02 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 22:04:02 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 22:04:02 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 22:04:02 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 22:04:02 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 22:04:02 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[02-Oct-2022 22:04:02 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[02-Oct-2022 22:34:13 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 22:34:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 22:34:13 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 22:34:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 22:34:13 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 22:34:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 22:34:13 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 22:34:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 22:34:13 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[02-Oct-2022 22:34:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[02-Oct-2022 22:40:49 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 22:40:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[02-Oct-2022 22:40:49 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 22:40:49 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[02-Oct-2022 22:40:49 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 22:40:49 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[02-Oct-2022 22:40:49 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 22:40:49 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[02-Oct-2022 22:40:49 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[02-Oct-2022 22:40:49 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[03-Oct-2022 05:21:13 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[03-Oct-2022 05:21:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[03-Oct-2022 05:21:13 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[03-Oct-2022 05:21:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[03-Oct-2022 05:21:13 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[03-Oct-2022 05:21:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[03-Oct-2022 05:21:13 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[03-Oct-2022 05:21:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[03-Oct-2022 05:21:13 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[03-Oct-2022 05:21:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[03-Oct-2022 05:49:01 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 124
+[03-Oct-2022 05:49:28 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 124
+[03-Oct-2022 05:49:28 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 124
+[03-Oct-2022 05:49:59 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 124
+[03-Oct-2022 05:50:23 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 124
+[03-Oct-2022 06:05:46 UTC] PHP Warning:  Undefined variable $checkUserQuery in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 50
+[03-Oct-2022 06:05:46 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php:50
+Stack trace:
+#0 /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php(50): mysqli->query()
+#1 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 50
+[03-Oct-2022 06:06:21 UTC] PHP Warning:  Undefined variable $checkUserQuery in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 97
+[03-Oct-2022 06:06:21 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php:97
+Stack trace:
+#0 /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php(97): mysqli->query()
+#1 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 97
+[03-Oct-2022 06:07:53 UTC] PHP Parse error:  Unmatched '}' in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 93
+[03-Oct-2022 06:08:17 UTC] PHP Parse error:  Unmatched '}' in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 93
+[03-Oct-2022 06:08:40 UTC] PHP Parse error:  Unmatched '}' in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 93
+[03-Oct-2022 06:09:05 UTC] PHP Warning:  Undefined variable $checkUserQuery in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 98
+[03-Oct-2022 06:09:05 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php:98
+Stack trace:
+#0 /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php(98): mysqli->query()
+#1 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 98
+[03-Oct-2022 06:10:23 UTC] PHP Warning:  Undefined variable $checkUserQuery in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 99
+[03-Oct-2022 06:10:23 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php:99
+Stack trace:
+#0 /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php(99): mysqli->query()
+#1 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 99
+[03-Oct-2022 06:10:42 UTC] PHP Warning:  Undefined variable $checkUserQuery in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 99
+[03-Oct-2022 06:10:42 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php:99
+Stack trace:
+#0 /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php(99): mysqli->query()
+#1 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 99
+[03-Oct-2022 06:11:18 UTC] PHP Warning:  Undefined variable $checkUserQuery in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 101
+[03-Oct-2022 06:11:18 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php:101
+Stack trace:
+#0 /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php(101): mysqli->query()
+#1 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 101
+[03-Oct-2022 06:12:05 UTC] PHP Warning:  Undefined variable $checkUserQuery in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 101
+[03-Oct-2022 06:12:05 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php:101
+Stack trace:
+#0 /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php(101): mysqli->query()
+#1 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 101
+[03-Oct-2022 06:12:15 UTC] PHP Warning:  Undefined variable $err in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 58
+[03-Oct-2022 06:13:21 UTC] PHP Warning:  Undefined variable $checkUserQuery in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 102
+[03-Oct-2022 06:13:21 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php:102
+Stack trace:
+#0 /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php(102): mysqli->query()
+#1 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 102
+[03-Oct-2022 06:13:50 UTC] PHP Warning:  Undefined variable $checkUserQuery in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 102
+[03-Oct-2022 06:13:50 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php:102
+Stack trace:
+#0 /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php(102): mysqli->query()
+#1 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 102
+[03-Oct-2022 06:13:59 UTC] PHP Warning:  Undefined variable $err in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 58
+[03-Oct-2022 06:17:25 UTC] PHP Warning:  Undefined variable $err in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 58
+[03-Oct-2022 06:21:12 UTC] PHP Warning:  Undefined variable $err in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/validate-add-edit-user.php on line 58
+[03-Oct-2022 09:44:10 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[03-Oct-2022 09:44:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[03-Oct-2022 09:44:10 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[03-Oct-2022 09:44:10 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[03-Oct-2022 09:44:10 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[03-Oct-2022 09:44:10 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[03-Oct-2022 09:44:10 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[03-Oct-2022 09:44:10 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[03-Oct-2022 09:44:10 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[03-Oct-2022 09:44:10 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[03-Oct-2022 10:05:40 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[03-Oct-2022 10:05:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[03-Oct-2022 10:05:40 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[03-Oct-2022 10:05:40 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[03-Oct-2022 10:05:40 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[03-Oct-2022 10:05:40 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[03-Oct-2022 10:05:40 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[03-Oct-2022 10:05:40 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[03-Oct-2022 10:05:40 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[03-Oct-2022 10:05:40 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[04-Oct-2022 06:25:51 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[04-Oct-2022 06:25:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 18
+[04-Oct-2022 06:25:51 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[04-Oct-2022 06:25:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 64
+[04-Oct-2022 06:25:51 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[04-Oct-2022 06:25:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 73
+[04-Oct-2022 06:25:51 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[04-Oct-2022 06:25:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 84
+[04-Oct-2022 06:25:51 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121
+[04-Oct-2022 06:25:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/index.php on line 121

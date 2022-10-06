@@ -1,0 +1,277 @@
+[02-Oct-2022 15:51:09 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[02-Oct-2022 15:51:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[02-Oct-2022 15:51:09 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[02-Oct-2022 15:51:09 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[02-Oct-2022 15:51:09 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[02-Oct-2022 15:51:09 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[02-Oct-2022 15:51:09 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[02-Oct-2022 15:51:09 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[02-Oct-2022 15:51:09 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[02-Oct-2022 15:51:09 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[02-Oct-2022 19:19:23 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[02-Oct-2022 19:19:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[02-Oct-2022 19:19:23 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[02-Oct-2022 19:19:23 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[02-Oct-2022 19:19:23 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[02-Oct-2022 19:19:23 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[02-Oct-2022 19:19:23 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[02-Oct-2022 19:19:23 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[02-Oct-2022 19:19:23 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[02-Oct-2022 19:19:23 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[02-Oct-2022 23:03:04 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[02-Oct-2022 23:03:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[02-Oct-2022 23:03:04 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[02-Oct-2022 23:03:04 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[02-Oct-2022 23:03:04 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[02-Oct-2022 23:03:04 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[02-Oct-2022 23:03:04 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[02-Oct-2022 23:03:04 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[02-Oct-2022 23:03:04 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[02-Oct-2022 23:03:04 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 05:39:19 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:39:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:39:24 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:39:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:39:31 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:39:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:39:39 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:39:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:39:52 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:39:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:40:59 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:40:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:18 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:24 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:27 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:28 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:28 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:28 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:28 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:28 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:30 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:30 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:39 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:41:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:43:10 UTC] PHP Warning:  require_once(myfunctions.php): Failed to open stream: No such file or directory in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:43:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'myfunctions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 2
+[03-Oct-2022 05:46:30 UTC] PHP Parse error:  Unclosed '{' on line 77 in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 184
+[03-Oct-2022 05:48:18 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/add-user.php on line 73
+[03-Oct-2022 07:47:29 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 07:47:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 07:47:29 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 07:47:29 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 07:47:29 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 07:47:29 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 07:47:29 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 07:47:29 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 07:47:29 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 07:47:29 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 07:47:36 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 07:47:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 07:47:36 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 07:47:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 07:47:36 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 07:47:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 07:47:36 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 07:47:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 07:47:36 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 07:47:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 07:55:22 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 07:55:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 07:55:22 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 07:55:22 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 07:55:22 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 07:55:22 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 07:55:22 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 07:55:22 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 07:55:22 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 07:55:22 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 08:17:54 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 08:17:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 08:17:54 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 08:17:54 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 08:17:54 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 08:17:54 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 08:17:54 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 08:17:54 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 08:17:54 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 08:17:54 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 08:39:11 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 08:39:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 08:39:11 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 08:39:11 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 08:39:11 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 08:39:11 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 08:39:11 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 08:39:11 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 08:39:11 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 08:39:11 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 08:51:51 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 08:51:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 08:51:51 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 08:51:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 08:51:51 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 08:51:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 08:51:51 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 08:51:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 08:51:51 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 08:51:51 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 09:08:49 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 09:08:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 09:08:49 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 09:08:49 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 09:08:49 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 09:08:49 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 09:08:49 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 09:08:49 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 09:08:49 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 09:08:49 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 10:10:13 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 10:10:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 10:10:13 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 10:10:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 10:10:13 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 10:10:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 10:10:13 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 10:10:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 10:10:13 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 10:10:13 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[04-Oct-2022 03:45:52 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[04-Oct-2022 03:45:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[04-Oct-2022 03:45:52 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[04-Oct-2022 03:45:52 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[04-Oct-2022 03:45:52 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[04-Oct-2022 03:45:52 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[04-Oct-2022 03:45:52 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[04-Oct-2022 03:45:52 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[04-Oct-2022 03:45:52 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[04-Oct-2022 03:45:52 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[04-Oct-2022 09:55:36 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[04-Oct-2022 09:55:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[04-Oct-2022 09:55:36 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[04-Oct-2022 09:55:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[04-Oct-2022 09:55:36 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[04-Oct-2022 09:55:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[04-Oct-2022 09:55:36 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[04-Oct-2022 09:55:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[04-Oct-2022 09:55:36 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[04-Oct-2022 09:55:36 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[04-Oct-2022 09:55:42 UTC] PHP Warning:  Undefined variable $row in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[04-Oct-2022 09:55:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 17
+[04-Oct-2022 09:55:42 UTC] PHP Warning:  Undefined variable $eventResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[04-Oct-2022 09:55:42 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 43
+[04-Oct-2022 09:55:42 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[04-Oct-2022 09:55:42 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 52
+[04-Oct-2022 09:55:42 UTC] PHP Warning:  Undefined variable $participantsResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[04-Oct-2022 09:55:42 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 61
+[04-Oct-2022 09:55:42 UTC] PHP Warning:  Undefined variable $userResult in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
+[04-Oct-2022 09:55:42 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/rpmemlkb/rkuevents.rpme.website/Event Attendance System/admin/users/all-user.php on line 140
